@@ -1,0 +1,15 @@
+/Users/emiliano/Documents/facu/Grupo6-TP1/bin/Debug/net6.0/Grupo6-TP1
+/Users/emiliano/Documents/facu/Grupo6-TP1/bin/Debug/net6.0/Grupo6-TP1.deps.json
+/Users/emiliano/Documents/facu/Grupo6-TP1/bin/Debug/net6.0/Grupo6-TP1.runtimeconfig.json
+/Users/emiliano/Documents/facu/Grupo6-TP1/bin/Debug/net6.0/Grupo6-TP1.dll
+/Users/emiliano/Documents/facu/Grupo6-TP1/bin/Debug/net6.0/Grupo6-TP1.pdb
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/Grupo6-TP1.csproj.AssemblyReference.cache
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/Grupo6-TP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/Grupo6-TP1.AssemblyInfoInputs.cache
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/Grupo6-TP1.AssemblyInfo.cs
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/Grupo6-TP1.csproj.CoreCompileInputs.cache
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/Grupo6-TP1.dll
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/refint/Grupo6-TP1.dll
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/Grupo6-TP1.pdb
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/Grupo6-TP1.genruntimeconfig.cache
+/Users/emiliano/Documents/facu/Grupo6-TP1/obj/Debug/net6.0/ref/Grupo6-TP1.dll
