@@ -1,18 +1,18 @@
 ﻿namespace Grupo6TP1
 {
-    class Program
+    public class Program
     {
         //GENERALIDADES
 
         //Ejercicio 1
-        static int Suma(int a, int b)
+        public static int Suma(int a, int b)
         {
             int c = a + b;
             return c;
         }
 
         //Ejercicio 2
-        static string CortarString(string arg)
+        public static string CortarString(string arg)
         {
             string cadena = arg;
             string cadenaCortada = cadena.Substring(0, 4);
@@ -20,7 +20,7 @@
         }
 
         //Ejercicio 3
-        static string FechaHoraActual()
+         public static string FechaHoraActual()
         {
             DateTime fecha = DateTime.Now;
             string impFecha = "";
@@ -35,7 +35,7 @@
         // ENUMERACIONES
 
         // Ejercicio 1
-        enum DiasSemana
+       public  enum DiasSemana
         {
             Domingo,
             Lunes,
@@ -47,7 +47,7 @@
         }
 
         //Ejercicio 2
-        static DiasSemana TextoDia(int a)
+        public static DiasSemana TextoDia(int a)
         {
             DiasSemana texto = (DiasSemana)a;
             return texto;
@@ -56,7 +56,7 @@
         // CONVERSIONES
 
         // Ejercicio 1
-        static int ConvertirANum1(bool str)
+        public static int ConvertirANum1(bool str)
         {
             int num = System.Convert.ToInt32(str);
             return num;
@@ -70,7 +70,7 @@
         }
 
         // Ejercicio 2
-        static short casteo(int a)
+        public static short casteo(int a)
         {
             short b = (short)a;
             return b;
@@ -84,49 +84,61 @@
             negro
         }
 
-        static void EnumColor(int a)
+        public static string EnumColor(int a)
         {
+            string value;
             Color texto = (Color)a;
             switch (texto)
             {
                 case Color.azul:
                     Console.WriteLine("Azul");
-                    break;
+                    return value = "Azul";
+                
 
                 case Color.blanco:
                     Console.WriteLine("Blanco");
-                    break;
+                    return value = "Blanco";
+                    
 
                 case Color.negro:
                     Console.WriteLine("Negro");
-                    break;
+                    return value = "Negro";
+                   
+
+                default:
+                    return "default";
             }
         }
 
         //Ejercicio 4
 
-        static void EvalNum(int a)
-        {
+        public static string  EvalNum(int a)
+        { string value;
             if (a > 10)
             {
                 Console.WriteLine("El numero ingresado es mayor a 10");
+                return value = "mayor a 10";
             }
             else
             {
                 Console.WriteLine("El numero ingresado es menor o igual a 10");
+                return value = "menor/igual a 10";
             }
         }
 
         //Ejercicio 7
 
-        static void Hasta50()
-        {
+        public static int Hasta50()
+        { 
             int a = 0;
             while (a < 50)
             {
                 a += 5;
+                
             }
+            
             Console.WriteLine("Finaliza bucle while por llegar a 50");
+            return a;
         }
 
         static void Main(string[] args)

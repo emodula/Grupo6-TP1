@@ -1,0 +1,15 @@
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\bin\Debug\net6.0\Grupo6TP1.exe
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\bin\Debug\net6.0\Grupo6TP1.deps.json
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\bin\Debug\net6.0\Grupo6TP1.runtimeconfig.json
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\bin\Debug\net6.0\Grupo6TP1.dll
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\bin\Debug\net6.0\Grupo6TP1.pdb
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\Grupo6TP1.csproj.AssemblyReference.cache
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\Grupo6TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\Grupo6TP1.AssemblyInfoInputs.cache
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\Grupo6TP1.AssemblyInfo.cs
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\Grupo6TP1.csproj.CoreCompileInputs.cache
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\Grupo6TP1.dll
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\refint\Grupo6TP1.dll
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\Grupo6TP1.pdb
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\Grupo6TP1.genruntimeconfig.cache
+C:\Users\Cris\Desktop\pa2\Grupo6-TP1\obj\Debug\net6.0\ref\Grupo6TP1.dll
