@@ -14,3 +14,5 @@ Ejericio 6
 El bucle For se utiliza para iterar items mediante el indice hasta que la condicion a evaluar sea falsa.
 
 El bucle ForEach se utiliza para colecciones (Listas, arrays, etc), en vez de iterar mediante el indice se accede directamente a cada item de la coleccion.
+//
+//
